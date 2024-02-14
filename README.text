@@ -1,0 +1,10 @@
+The .htacess file will redirect all request to the index.php
+and changing the url 
+
+from 
+http://localhost/CodeSplitting/index.php/ or
+http://localhost/CodeSplitting/about.php/
+
+to
+http://localhost/CodeSplitting/ as home page
+http://localhost/CodeSplitting/about as about page
